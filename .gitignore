@@ -24,3 +24,7 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+In9 Music Visualizer PCB/.DS_Store
+.DS_Store
+*.zip
+*.kicad_prl
